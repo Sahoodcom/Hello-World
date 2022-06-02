@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greenisgreate/static/css/main.0b4e74b4.css",
+    "main.js": "/greenisgreate/static/js/main.5e13a056.js",
+    "static/js/787.6816d615.chunk.js": "/greenisgreate/static/js/787.6816d615.chunk.js",
+    "service-worker.js": "/greenisgreate/service-worker.js",
+    "index.html": "/greenisgreate/index.html",
+    "main.0b4e74b4.css.map": "/greenisgreate/static/css/main.0b4e74b4.css.map",
+    "main.5e13a056.js.map": "/greenisgreate/static/js/main.5e13a056.js.map",
+    "787.6816d615.chunk.js.map": "/greenisgreate/static/js/787.6816d615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.5e13a056.js"
+  ]
+}
